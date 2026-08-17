@@ -53,4 +53,18 @@ legend {
     padding-top:50px;
 }
 
+button{
+    background-color: #596D48;
+    padding:10px;
+    border:none;
+
+}
+
+.create-account-section{
+    padding-left:10px;
+}
+a {
+    text-decoration: none;
+    color: #596D48;
+}
 
